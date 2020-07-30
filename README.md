@@ -1,11 +1,15 @@
 # The-Devps-App
-The Devps App is a shorthand application designed to perform menial day-to-day tasks. It is developed in java based environment. It performs various functionalities. 
+***
+***The Devps App is a shorthand application designed to perform menial day-to-day tasks. It is developed in java based environment. It performs various functionalities.***
 
-It has various inbuilt features :  
+## It has various inbuilt features :  
 
-1)Basic Calculator 
-2)A Notepad 
-3)A Game A Backend based Registration System  
+* Basic Calculator 
+* A Notepad 
+* A Game A Backend based Registration System  
+
+***
+## Various Links:- 
 
 The link of the Github Repository :  https://github.com/abhishek2x/The-Devps-App  
 
